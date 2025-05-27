@@ -1,0 +1,98 @@
+{
+  "sets": {
+    "set1": {
+      "piedra": {
+        "imagen": "piedra_clasica.jpg",
+        "descripcion": "Piedra aplasta Tijera y Lagarto"
+      },
+      "papel": {
+        "imagen": "papel_clasico.jpg",
+        "descripcion": "Papel cubre Piedra y desautoriza Spock"
+      },
+      "tijera": {
+        "imagen": "tijera_clasica.jpg",
+        "descripcion": "Tijera corta Papel y decapita Lagarto"
+      },
+      "lagarto": {
+        "imagen": "lagarto_clasico.jpg",
+        "descripcion": "Lagarto come Papel y envenena Spock"
+      },
+      "spock": {
+        "imagen": "spock_clasico.jpg",
+        "descripcion": "Spock rompe Tijera y vaporiza Piedra"
+      }
+    },
+    "set2": {
+      "piedra": {
+        "imagen": "piedra_futurista.jpg",
+        "descripcion": "Piedra aplasta Tijera y Lagarto"
+      },
+      "papel": {
+        "imagen": "papel_futurista.jpg",
+        "descripcion": "Papel cubre Piedra y desautoriza Spock"
+      },
+      "tijera": {
+        "imagen": "tijera_futurista.jpg",
+        "descripcion": "Tijera corta Papel y decapita Lagarto"
+      },
+      "lagarto": {
+        "imagen": "lagarto_futurista.jpg",
+        "descripcion": "Lagarto come Papel y envenena Spock"
+      },
+      "spock": {
+        "imagen": "spock_futurista.jpg",
+        "descripcion": "Spock rompe Tijera y vaporiza Piedra"
+      }
+    },
+    "set3": {
+      "piedra": {
+        "imagen": "piedra_medieval.jpg",
+        "descripcion": "Piedra aplasta Tijera y Lagarto"
+      },
+      "papel": {
+        "imagen": "papel_medieval.jpg",
+        "descripcion": "Papel cubre Piedra y desautoriza Spock"
+      },
+      "tijera": {
+        "imagen": "tijera_medieval.jpg",
+        "descripcion": "Tijera corta Papel y decapita Lagarto"
+      },
+      "lagarto": {
+        "imagen": "lagarto_medieval.jpg",
+        "descripcion": "Lagarto come Papel y envenena Spock"
+      },
+      "spock": {
+        "imagen": "spock_medieval.jpg",
+        "descripcion": "Spock rompe Tijera y vaporiza Piedra"
+      }
+    },
+	"set4": {
+      "piedra": {
+        "imagen": "piedra_baby.jpg",
+        "descripcion": "Piedra aplasta Tijera y Lagarto"
+      },
+      "papel": {
+        "imagen": "papel_baby.jpg",
+        "descripcion": "Papel cubre Piedra y desautoriza Spock"
+      },
+      "tijera": {
+        "imagen": "tijera_baby.jpg",
+        "descripcion": "Tijera corta Papel y decapita Lagarto"
+      },
+      "lagarto": {
+        "imagen": "lagarto_baby.jpg",
+        "descripcion": "Lagarto come Papel y envenena Spock"
+      },
+      "spock": {
+        "imagen": "spock_baby.jpg",
+        "descripcion": "Spock rompe Tijera y vaporiza Piedra"
+      }
+    }
+  },
+  "sonidos": {
+    "inicio_partida": "countdown.wav",
+    "victoria": "win.wav",
+    "derrota": "lose.wav",
+    "empate": "draw.wav"
+  }
+}

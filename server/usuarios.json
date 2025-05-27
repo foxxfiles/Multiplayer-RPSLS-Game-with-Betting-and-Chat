@@ -1,0 +1,95 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "username": "usuario 1",
+            "password_hash": "c8b7749b917fd348bf446043dac0b21f3bd2dbc7925ac62175640c7d91e03491",
+            "salt": "f0e7ec0e2764492585bb0b6744321ab0",
+            "creditos": 1000,
+            "partidas_jugadas": 0,
+            "partidas_ganadas": 0
+        },
+        {
+            "id": 2,
+            "username": "usuario 2",
+            "password_hash": "4c42e1fc9679322bd928d69fffad9e88d512088279f35bfce6e46885ab5ed4f9",
+            "salt": "e7c23133da9642d9ae623b14402094e4",
+            "creditos": 1034,
+            "partidas_jugadas": 55,
+            "partidas_ganadas": 16
+        },
+        {
+            "id": 3,
+            "username": "usuario 3",
+            "password_hash": "d38402a27e4490f552bcdc2a26f80b3223dc6498be6947a9702a33c789496b15",
+            "salt": "06a4dee3510a429086a4b3ae2697c9ad",
+            "creditos": 877,
+            "partidas_jugadas": 46,
+            "partidas_ganadas": 10
+        },
+        {
+            "id": 4,
+            "username": "usuario 4",
+            "password_hash": "593fd35da87a56b9d87bc05623b352f9b8a9eb929e723114bf2ef13e4a6a4eb4",
+            "salt": "433a0ab9c2cf456aa59d08f95a73a062",
+            "creditos": 1000,
+            "partidas_jugadas": 1,
+            "partidas_ganadas": 0
+        },
+        {
+            "id": 5,
+            "username": "usuario 5",
+            "password_hash": "b801579af5f5cb1a3e22139f3282fdbe6d1bb3e8866b23bbdb7116ffb249a208",
+            "salt": "9babb9fbfebc49799b44ae90f67fab06",
+            "creditos": 1099,
+            "partidas_jugadas": 2,
+            "partidas_ganadas": 2
+        },
+        {
+            "id": 6,
+            "username": "usuario 6",
+            "password_hash": "4e9dc0810614fe930b01ce320ef103b2436db2a36441edd2ad312ae9cc14f5ce",
+            "salt": "49fbd826e14f44e9b8ee7e1d66d2555c",
+            "creditos": 1000,
+            "partidas_jugadas": 0,
+            "partidas_ganadas": 0
+        },
+        {
+            "id": 7,
+            "username": "usuario 7",
+            "password_hash": "c3d3808dd3681d293b1a005643a15c9eb27f51804d36195a495ab9f33918a62b",
+            "salt": "331aedbef6524d81bfad7e3b64a6a5c7",
+            "creditos": 1000,
+            "partidas_jugadas": 0,
+            "partidas_ganadas": 0
+        },
+        {
+            "id": 8,
+            "username": "usuario 8",
+            "password_hash": "ca41102d0254233851ebd898e1f16d219697303a201f0ecd3227ae1155b43323",
+            "salt": "83139a1018ef493da8e243b1104f3f61",
+            "creditos": 1000,
+            "partidas_jugadas": 5,
+            "partidas_ganadas": 0
+        },
+        {
+            "id": 9,
+            "username": "usuario 9",
+            "password_hash": "bd0fbcbb0a3f1d4fe0623b854296b81d00100ac95a11332e6b3c454720963e3f",
+            "salt": "ee145b74a2c54c1cbec6b709b8cf1c05",
+            "creditos": 1000,
+            "partidas_jugadas": 1,
+            "partidas_ganadas": 0
+        },
+        {
+            "id": 10,
+            "username": "usuario 10",
+            "password_hash": "cab07fdce0ad292067ae3f02eea6d0248a71c15bfe74b6d497c2ccd2d1b7ad05",
+            "salt": "b1c7aef833f54d65bd8291347764a685",
+            "creditos": 990,
+            "partidas_jugadas": 4,
+            "partidas_ganadas": 1
+        }
+    ],
+    "next_id": 11
+}
